@@ -1,5 +1,5 @@
 ### Hi 👋
 
-![GitHub metrics](https://metrics.lecoq.io/AntonMarklund00)  
+* 💻 Computer Engineering Student 
 
 ![Profile views](https://gpvc.arturio.dev/AntonMarklund00)  
